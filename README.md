@@ -1,6 +1,6 @@
 # Fake-News-Detector
 
-Autohrs: Mingzhi Zhong, Yu Ji, Ziwei Chen and Bokai Li
+Authors: Mingzhi Zhong, Yu Ji, Ziwei Chen and Bokai Li
 
 Abstract
 
